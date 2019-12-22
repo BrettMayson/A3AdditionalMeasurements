@@ -1,5 +1,5 @@
 name = "Arma 3 Additional Units"
-modname = "a3au"
-prefix = "a3au"
+modname = "a3am"
+prefix = "a3am"
 author = "SynixeBrett"
 files = ["mod.cpp"]

@@ -1,3 +1,4 @@
-releases/
-keys/
+releases/*
+keys/*
 *.pbo
+*.biprivatekey
