@@ -44,7 +44,7 @@ PREP_RECOMPILE_END;
     "LIST",
     [localize LSTRING(Alt_DisplayName), localize LSTRING(Alt_Description)],
     ["A3AM", localize "STR_A3_TIME_TRIALS_HELI_NAME"],
-    [[ALT_M, ALT_F, ALT_Y, ALT_L, ALT_R, ALT_A], [LSTRING(Alt_M), LSTRING(Alt_F), LSTRING(Alt_Y), LSTRING(Alt_L), LSTRING(Alt_R), LSTRING(Alt_A)], 0]
+    [[ALT_M, ALT_F, ALT_Y, ALT_R, ALT_A], [LSTRING(Alt_M), LSTRING(Alt_F), LSTRING(Alt_Y), LSTRING(Alt_R), LSTRING(Alt_A)], 0]
 ] call CBA_settings_fnc_init;
 
 [
@@ -63,7 +63,7 @@ PREP_RECOMPILE_END;
     "LIST",
     [localize LSTRING(Alt_DisplayName), localize LSTRING(Alt_Description)],
     ["A3AM", localize "STR_A3_Showcase_FixedWings_Mission_Name"],
-    [[ALT_M, ALT_F, ALT_Y, ALT_L, ALT_R, ALT_A], [LSTRING(Alt_M), LSTRING(Alt_F), LSTRING(Alt_Y), LSTRING(Alt_L), LSTRING(Alt_R), LSTRING(Alt_A)], 0]
+    [[ALT_M, ALT_F, ALT_Y, ALT_R, ALT_A], [LSTRING(Alt_M), LSTRING(Alt_F), LSTRING(Alt_Y), LSTRING(Alt_R), LSTRING(Alt_A)], 0]
 ] call CBA_settings_fnc_init;
 
 ADDON = true;

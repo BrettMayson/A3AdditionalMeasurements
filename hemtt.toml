@@ -3,3 +3,4 @@ modname = "a3am"
 prefix = "a3am"
 author = "SynixeBrett"
 files = ["mod.cpp"]
+signame = "{{prefix}}_{{version}}"
