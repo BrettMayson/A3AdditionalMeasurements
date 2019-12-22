@@ -5,7 +5,7 @@
 
 # Arma 3 Additional Measurements
 
-Adds more speed and altitude units to Arma 3, decimal places (adjustable) has been added to altitudes below 10m / 10ft.
+Adds more speed and altitude units to Arma 3, decimal places has been added to altitudes below 10m / 10ft.
 
 ## Speed
 
@@ -26,5 +26,5 @@ Adds more speed and altitude units to Arma 3, decimal places (adjustable) has be
 
 ## Installation
 
-* Subscribe via [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1942567517&searchtext=)
+* Subscribe via [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1942567517)
 * Download via [Github](https://github.com/synixebrett/A3AdditionalUnits/releases)
