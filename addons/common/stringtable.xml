@@ -58,14 +58,14 @@
             <English>Feet</English>
             <German>Fuß</German>
         </Key>
-        <Key ID="STR_A3AM_common_Alt_League">
-            <English>League</English>
+        <Key ID="STR_A3AM_common_Alt_Y">
+            <English>Yard</English>
         </Key>
-        <Key ID="STR_A3AM_common_Alt_Rod">
+        <Key ID="STR_A3AM_common_Alt_R">
             <English>Rod</English>
             <German>Rute</German>
         </Key>
-        <Key ID="STR_A3AM_common_Alt_AU">
+        <Key ID="STR_A3AM_common_Alt_A">
             <English>Astronomical Units</English>
             <German>Astronomische Einheiten</German>
         </Key>

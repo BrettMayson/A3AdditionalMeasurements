@@ -27,13 +27,11 @@
 #define ALT_M 0
 #define ALT_F 1
 #define ALT_Y 2
-#define ALT_L 3
-#define ALT_R 4
-#define ALT_A 5
+#define ALT_R 3
+#define ALT_A 4
 
 #define METERS_TO_FEET 0.3047999902464003
 #define METERS_TO_YARD 1.0936
-#define METERS_TO_LEAGUE 0.000207124
 #define METERS_TO_ROD 0.198839
 #define METERS_TO_AU 0
 
